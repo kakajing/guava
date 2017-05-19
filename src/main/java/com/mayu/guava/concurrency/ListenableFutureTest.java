@@ -13,6 +13,9 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * 多表插入数据时，可以考虑使用并发插入数据
+ * 可以监听的Future
+ *
  * Author 卡卡
  * Created by jing on 2017/5/17.
  */
