@@ -31,6 +31,9 @@ public class RangeTest {
         System.out.println(open.contains(10));
     }
 
+    /**
+     * 区间的使用场景
+     */
     @Test
     public void testPredicate(){
         Person person1 = new Person("test1", 10);
